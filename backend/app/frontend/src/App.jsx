@@ -1,0 +1,1 @@
+import React from 'react';\nimport Dashboard from './Dashboard';\nimport './App.css';\n\nfunction App() {\n  return (\n    <div className=\"App\">\n      <Dashboard />\n    </div>\n  );\n}\n\nexport default App;
